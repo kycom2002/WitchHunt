@@ -1,13 +1,17 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 3B17EB8D
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if(keyboard_check_pressed(vk_right))$(13_10){$(13_10)	x += 8;$(13_10)}$(13_10)if(keyboard_check_pressed(vk_left))$(13_10){$(13_10)	x -= 8;$(13_10)}"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)if(keyboard_check(vk_right))$(13_10){$(13_10)	x += walkSpeed;$(13_10)	image_speed = walkSpeed /3;$(13_10)	sprite_index = sp_witch_run_right;$(13_10)	$(13_10)}$(13_10)$(13_10)if(keyboard_check(vk_nokey))$(13_10){$(13_10)	image_speed=0;$(13_10)}"
 /// @description Execute Code
-if(keyboard_check_pressed(vk_right))
+if(keyboard_check(vk_right))
 {
-	x += 8;
+	x += walkSpeed;
+	image_speed = walkSpeed /3;
+	sprite_index = sp_witch_run_right;
+	
 }
-if(keyboard_check_pressed(vk_left))
+
+if(keyboard_check(vk_nokey))
 {
-	x -= 8;
+	image_speed=0;
 }

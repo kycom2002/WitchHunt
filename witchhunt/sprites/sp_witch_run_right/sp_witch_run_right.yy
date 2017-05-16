@@ -2,7 +2,7 @@
     "id": "2e19ac53-a381-47a3-a3d9-71ff7daa562a",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sp_witch",
+    "name": "sp_witch_run_right",
     "For3D": false,
     "HTile": false,
     "VTile": false,

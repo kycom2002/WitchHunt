@@ -66,7 +66,7 @@
             "Key": "2e19ac53-a381-47a3-a3d9-71ff7daa562a",
             "Value": {
                 "id": "2ef73434-3671-45b2-88ef-ea1a1edfbd28",
-                "resourcePath": "sprites\\sp_witch\\sp_witch.yy",
+                "resourcePath": "sprites\\sp_witch_run_right\\sp_witch_run_right.yy",
                 "resourceType": "GMSprite"
             }
         },
