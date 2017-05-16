@@ -205,14 +205,6 @@
                 "resourcePath": "options\\mac\\options_mac.yy",
                 "resourceType": "GMMacOptions"
             }
-        },
-        {
-            "Key": "ff333109-7e48-49c7-abd7-07b7d90edc25",
-            "Value": {
-                "id": "300ebdf6-ab93-4247-889d-a4be81869299",
-                "resourcePath": "rooms\\rm_main_menu\\rm_main_menu.yy",
-                "resourceType": "GMRoom"
-            }
         }
     ],
     "script_order": [

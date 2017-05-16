@@ -4,12 +4,12 @@
     "mvc": "1.0",
     "name": "rm_first",
     "IsDnD": true,
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        
+        "99be55b1-3316-4880-a313-729dd1245522"
     ],
     "layers": [
         {
@@ -35,7 +35,30 @@
             "userdefined_depth": false,
             "visible": true,
             "instances": [
-                
+                {
+                    "id": "99be55b1-3316-4880-a313-729dd1245522",
+                    "modelName": "GMRInstance",
+                    "mvc": "1.0",
+                    "ignore": false,
+                    "inheritItemSettings": false,
+                    "m_originalParentID": "00000000-0000-0000-0000-000000000000",
+                    "m_serialiseFrozen": false,
+                    "name": "inst_75EC8BCD",
+                    "x": 299,
+                    "y": 334,
+                    "IsDnD": true,
+                    "colour": {
+                        "Value": 4294967295
+                    },
+                    "creationCodeFile": "",
+                    "creationCodeType": "",
+                    "inheritCode": false,
+                    "name_with_no_file_rename": "inst_75EC8BCD",
+                    "objId": "9fe63ed9-4855-4456-8724-1c094791a9b3",
+                    "rotation": 0,
+                    "scaleX": 1,
+                    "scaleY": 1
+                }
             ]
         },
         {
@@ -60,16 +83,16 @@
             "name": "Background",
             "userdefined_depth": false,
             "visible": true,
-            "animationFPS": 15,
+            "animationFPS": 30,
             "animationSpeedType": 0,
             "colour": {
-                "Value": 4291611852
+                "Value": 4294967295
             },
             "hspeed": 0,
             "htiled": false,
             "spriteId": "00000000-0000-0000-0000-000000000000",
             "stretch": false,
-            "userdefined_animFPS": false,
+            "userdefined_animFPS": true,
             "vspeed": 0,
             "vtiled": false,
             "x": 0,
