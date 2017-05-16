@@ -9,7 +9,7 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
-        "99be55b1-3316-4880-a313-729dd1245522"
+        "d95300b0-ebc4-4253-88ba-bdb5a9935e56"
     ],
     "layers": [
         {
@@ -36,16 +36,16 @@
             "visible": true,
             "instances": [
                 {
-                    "id": "99be55b1-3316-4880-a313-729dd1245522",
+                    "id": "d95300b0-ebc4-4253-88ba-bdb5a9935e56",
                     "modelName": "GMRInstance",
                     "mvc": "1.0",
                     "ignore": false,
                     "inheritItemSettings": false,
                     "m_originalParentID": "00000000-0000-0000-0000-000000000000",
                     "m_serialiseFrozen": false,
-                    "name": "inst_75EC8BCD",
-                    "x": 299,
-                    "y": 334,
+                    "name": "inst_147D661A",
+                    "x": 288,
+                    "y": 320,
                     "IsDnD": true,
                     "colour": {
                         "Value": 4294967295
@@ -53,7 +53,7 @@
                     "creationCodeFile": "",
                     "creationCodeType": "",
                     "inheritCode": false,
-                    "name_with_no_file_rename": "inst_75EC8BCD",
+                    "name_with_no_file_rename": "inst_147D661A",
                     "objId": "9fe63ed9-4855-4456-8724-1c094791a9b3",
                     "rotation": 0,
                     "scaleX": 1,
@@ -83,7 +83,7 @@
             "name": "Background",
             "userdefined_depth": false,
             "visible": true,
-            "animationFPS": 30,
+            "animationFPS": 60,
             "animationSpeedType": 0,
             "colour": {
                 "Value": 4294967295
