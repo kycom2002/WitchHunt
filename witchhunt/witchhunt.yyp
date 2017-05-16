@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "a36e3257-252a-4d17-8e08-218c77dd3656",
+            "Value": {
+                "id": "98e49f8c-3bd8-4b48-9ce5-70cb998277d4",
+                "resourcePath": "sprites\\sp_witch_run_left\\sp_witch_run_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "a3cd06c3-43b3-45b6-9017-a9a8a47784e2",
             "Value": {
                 "id": "f5277536-ef5f-4327-9434-8f06359e8107",
