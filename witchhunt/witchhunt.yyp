@@ -175,6 +175,14 @@
             }
         },
         {
+            "Key": "aa5491cd-9632-4add-ad7b-bef7085df6d5",
+            "Value": {
+                "id": "4e7aba2c-c432-41d2-83f3-d7a0f7f308fe",
+                "resourcePath": "sprites\\sp_witch_walk_right\\sp_witch_walk_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "c03af98a-0734-4f71-a4ee-d4b3788c5d53",
             "Value": {
                 "id": "0800198c-67bd-4721-98ed-c2bb588cd629",
