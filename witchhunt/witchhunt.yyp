@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0cb48fd4-c628-4c0e-949d-0d84b92a68f6",
+            "Value": {
+                "id": "c9b30f29-86ec-4189-926d-5b0fc22a0488",
+                "resourcePath": "sprites\\sp_witch_walk_left\\sp_witch_walk_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "15e62d5c-4e9c-48e6-9cd0-355bddd00ccd",
             "Value": {
                 "id": "5c733154-6b33-49ae-b032-3bad3715b2f4",
