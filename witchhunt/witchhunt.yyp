@@ -199,6 +199,14 @@
             }
         },
         {
+            "Key": "d2c292b1-0c19-40ed-8201-8547493db101",
+            "Value": {
+                "id": "488bcf27-969d-485f-9466-984afc294380",
+                "resourcePath": "sprites\\sp_witch_walk_left\\sp_witch_walk_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "d77c4ca2-edd6-4f0f-ae48-b437abdb360d",
             "Value": {
                 "id": "4bcb3d83-c1c9-4fa3-964e-14cc23cedaea",
