@@ -15,50 +15,6 @@
     "coltolerance": 0,
     "frames": [
         {
-            "id": "bf5ff689-e1ee-48a8-8414-a23ad8645d65",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "a36e3257-252a-4d17-8e08-218c77dd3656",
-            "compositeImage": {
-                "id": "b7e951ad-5d1b-407d-9a01-fd62389ee010",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "bf5ff689-e1ee-48a8-8414-a23ad8645d65",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "a7b67046-d292-439c-be5a-675b2724ec14",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "bf5ff689-e1ee-48a8-8414-a23ad8645d65",
-                    "LayerId": "ae8079b5-b1d3-4380-b018-29d89f83e740"
-                }
-            ]
-        },
-        {
-            "id": "001985cc-e6dc-4f5e-9448-4a7abc097549",
-            "modelName": "GMSpriteFrame",
-            "mvc": "1.0",
-            "SpriteId": "a36e3257-252a-4d17-8e08-218c77dd3656",
-            "compositeImage": {
-                "id": "b996ee65-dfdc-415c-ac1e-220bcbd5f33b",
-                "modelName": "GMSpriteImage",
-                "mvc": "1.0",
-                "FrameId": "001985cc-e6dc-4f5e-9448-4a7abc097549",
-                "LayerId": "00000000-0000-0000-0000-000000000000"
-            },
-            "images": [
-                {
-                    "id": "9306dac9-7bde-48ac-bd69-363b6d8d17ab",
-                    "modelName": "GMSpriteImage",
-                    "mvc": "1.0",
-                    "FrameId": "001985cc-e6dc-4f5e-9448-4a7abc097549",
-                    "LayerId": "ae8079b5-b1d3-4380-b018-29d89f83e740"
-                }
-            ]
-        },
-        {
             "id": "35105071-1487-4601-bff9-cb7e5256b32d",
             "modelName": "GMSpriteFrame",
             "mvc": "1.0",
@@ -186,6 +142,50 @@
                     "modelName": "GMSpriteImage",
                     "mvc": "1.0",
                     "FrameId": "736a2dbf-d809-4397-8bb3-04b3fcbdadbd",
+                    "LayerId": "ae8079b5-b1d3-4380-b018-29d89f83e740"
+                }
+            ]
+        },
+        {
+            "id": "bf5ff689-e1ee-48a8-8414-a23ad8645d65",
+            "modelName": "GMSpriteFrame",
+            "mvc": "1.0",
+            "SpriteId": "a36e3257-252a-4d17-8e08-218c77dd3656",
+            "compositeImage": {
+                "id": "b7e951ad-5d1b-407d-9a01-fd62389ee010",
+                "modelName": "GMSpriteImage",
+                "mvc": "1.0",
+                "FrameId": "bf5ff689-e1ee-48a8-8414-a23ad8645d65",
+                "LayerId": "00000000-0000-0000-0000-000000000000"
+            },
+            "images": [
+                {
+                    "id": "a7b67046-d292-439c-be5a-675b2724ec14",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "bf5ff689-e1ee-48a8-8414-a23ad8645d65",
+                    "LayerId": "ae8079b5-b1d3-4380-b018-29d89f83e740"
+                }
+            ]
+        },
+        {
+            "id": "001985cc-e6dc-4f5e-9448-4a7abc097549",
+            "modelName": "GMSpriteFrame",
+            "mvc": "1.0",
+            "SpriteId": "a36e3257-252a-4d17-8e08-218c77dd3656",
+            "compositeImage": {
+                "id": "b996ee65-dfdc-415c-ac1e-220bcbd5f33b",
+                "modelName": "GMSpriteImage",
+                "mvc": "1.0",
+                "FrameId": "001985cc-e6dc-4f5e-9448-4a7abc097549",
+                "LayerId": "00000000-0000-0000-0000-000000000000"
+            },
+            "images": [
+                {
+                    "id": "9306dac9-7bde-48ac-bd69-363b6d8d17ab",
+                    "modelName": "GMSpriteImage",
+                    "mvc": "1.0",
+                    "FrameId": "001985cc-e6dc-4f5e-9448-4a7abc097549",
                     "LayerId": "ae8079b5-b1d3-4380-b018-29d89f83e740"
                 }
             ]
