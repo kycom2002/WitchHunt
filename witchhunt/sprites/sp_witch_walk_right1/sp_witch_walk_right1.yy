@@ -2,13 +2,13 @@
     "id": "d2c292b1-0c19-40ed-8201-8547493db101",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sp_witch_walk_left",
+    "name": "sp_witch_walk_right1",
     "For3D": false,
     "HTile": false,
     "VTile": false,
     "bbox_bottom": 63,
-    "bbox_left": 19,
-    "bbox_right": 45,
+    "bbox_left": 18,
+    "bbox_right": 44,
     "bbox_top": 8,
     "bboxmode": 0,
     "colkind": 1,
@@ -341,7 +341,7 @@
             "visible": false
         }
     ],
-    "origin": 4,
+    "origin": 9,
     "playbackSpeed": 5,
     "playbackSpeedType": 0,
     "sepmasks": false,
@@ -350,6 +350,6 @@
     "textureGroupId": "1225f6b0-ac20-43bd-a82e-be73fa0b6f4f",
     "type": 0,
     "width": 64,
-    "xorig": 32,
+    "xorig": 31,
     "yorig": 32
 }
