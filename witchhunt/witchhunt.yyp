@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "6b65d2db-6406-4871-a765-5550c7798b9f",
+            "Value": {
+                "id": "6ce63397-803e-4dea-b522-ffa6195e2173",
+                "resourcePath": "sprites\\sp_witch_idle_right\\sp_witch_idle_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6d2c5ac1-c7dd-4918-8f84-af94865c8584",
             "Value": {
                 "id": "6cb919a2-a3c8-440c-9f7a-242c0516117f",
