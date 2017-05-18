@@ -255,6 +255,14 @@
             }
         },
         {
+            "Key": "e6443f52-e0d9-43c1-ace4-33b8aae431b3",
+            "Value": {
+                "id": "5f534910-1230-4715-a24c-e31ad8c987c4",
+                "resourcePath": "sprites\\sp_witch_stand_left\\sp_witch_stand_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f02dbf43-95a6-42c1-9faf-8a4a71250d49",
             "Value": {
                 "id": "fb97f26f-fe64-47dc-9c80-0b1bb58f5d06",
