@@ -226,7 +226,7 @@
             "Key": "be6eb7ff-45b3-492d-9abf-fef1fe1c14fa",
             "Value": {
                 "id": "c27b1314-64a8-4836-8512-557f3a1ba5c5",
-                "resourcePath": "sprites\\sp_witch_stand\\sp_witch_stand.yy",
+                "resourcePath": "sprites\\sp_witch_stand_left\\sp_witch_stand_left.yy",
                 "resourceType": "GMSprite"
             }
         },
