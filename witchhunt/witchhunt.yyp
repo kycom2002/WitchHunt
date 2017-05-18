@@ -31,22 +31,6 @@
     },
     "resources": [
         {
-            "Key": "0cb48fd4-c628-4c0e-949d-0d84b92a68f6",
-            "Value": {
-                "id": "76d8c9ff-8467-4457-a227-5d22d0a6b404",
-                "resourcePath": "sprites\\sp_witch_walk_left\\sp_witch_walk_left.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
-            "Key": "0f9cf25d-298e-424c-9d7f-734d0039c435",
-            "Value": {
-                "id": "f299f1d0-546b-425c-a0c6-ab338f347dfa",
-                "resourcePath": "sprites\\sp_witch_stand_right\\sp_witch_stand_right.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "15e62d5c-4e9c-48e6-9cd0-355bddd00ccd",
             "Value": {
                 "id": "5c733154-6b33-49ae-b032-3bad3715b2f4",
