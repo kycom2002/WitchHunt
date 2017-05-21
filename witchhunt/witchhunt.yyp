@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "4f7f9bc7-4b7a-401b-a069-ceac3b972dbe",
+            "Value": {
+                "id": "515e0ae1-cf45-41bd-9c51-bf2de7192af1",
+                "resourcePath": "sprites\\sp_witch_walk_right\\sp_witch_walk_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5bf6316a-6238-46e3-be1a-6b0b7bb7a81a",
             "Value": {
                 "id": "8cb2d4ca-438d-41a8-926b-1c22924c92c5",
@@ -183,6 +191,14 @@
             }
         },
         {
+            "Key": "99af3716-cb32-4dd0-a51f-ba9eee65f854",
+            "Value": {
+                "id": "9f53cf85-132c-4158-b4ba-5983c01304a3",
+                "resourcePath": "sprites\\sp_witch_stand_left\\sp_witch_stand_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "99da34c2-0be5-4da4-996e-28ccd3d6623e",
             "Value": {
                 "id": "eff43c19-12fd-4ac2-902b-4fc1bfa6e8fb",
@@ -239,6 +255,22 @@
             }
         },
         {
+            "Key": "b183c7f7-3c8e-40a0-b3d7-1f52f8f15d25",
+            "Value": {
+                "id": "3a447e51-49a2-4a68-afe0-84eb4e2de355",
+                "resourcePath": "sprites\\sp_witch_stand_right\\sp_witch_stand_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "b44acd1a-d684-493e-8e91-e855d40f14dd",
+            "Value": {
+                "id": "4544abfd-0c53-4d82-9ac4-8b64d78cee70",
+                "resourcePath": "sprites\\sp_witch_run_left\\sp_witch_run_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b59ff51b-c45f-4e3e-a4fc-2279ad7b6a1b",
             "Value": {
                 "id": "dfe5ca89-cd64-45b3-ae69-66e278208423",
@@ -252,6 +284,14 @@
                 "id": "0800198c-67bd-4721-98ed-c2bb588cd629",
                 "resourcePath": "views\\c03af98a-0734-4f71-a4ee-d4b3788c5d53.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c74f20b5-b440-4015-a140-e23124d0f45d",
+            "Value": {
+                "id": "7fa28dcb-08a8-41d5-a54f-91051ad4e67c",
+                "resourcePath": "sprites\\sp_witch_walk_left\\sp_witch_walk_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -276,6 +316,22 @@
                 "id": "4bcb3d83-c1c9-4fa3-964e-14cc23cedaea",
                 "resourcePath": "views\\d77c4ca2-edd6-4f0f-ae48-b437abdb360d.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e41aab3d-488b-491c-ae35-3588ede389e2",
+            "Value": {
+                "id": "8ecfeb2f-7485-46b1-8f67-bbe6cf0c1076",
+                "resourcePath": "sprites\\sp_witch_run_left\\sp_witch_run_left.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e57217c6-888d-43c0-b470-ce45fa0695b9",
+            "Value": {
+                "id": "40b3c610-8196-4466-8554-43574ace3819",
+                "resourcePath": "sprites\\sp_witch_run_right\\sp_witch_run_right.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
