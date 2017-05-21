@@ -111,6 +111,14 @@
             }
         },
         {
+            "Key": "48305302-60d4-4ae9-8bad-b69b22b3f9cb",
+            "Value": {
+                "id": "30bd6a36-a653-4518-a069-3893602eec20",
+                "resourcePath": "sprites\\sp_witch_panting_right\\sp_witch_panting_right.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "5bf6316a-6238-46e3-be1a-6b0b7bb7a81a",
             "Value": {
                 "id": "8cb2d4ca-438d-41a8-926b-1c22924c92c5",
@@ -140,6 +148,14 @@
                 "id": "6cb919a2-a3c8-440c-9f7a-242c0516117f",
                 "resourcePath": "views\\6d2c5ac1-c7dd-4918-8f84-af94865c8584.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "6fe7955d-85d5-4abd-969f-b68d5faf1175",
+            "Value": {
+                "id": "61bf6b92-4e27-4e3a-b4de-c74ed000e716",
+                "resourcePath": "sprites\\sp_witch_panting_left\\sp_witch_panting_left.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
